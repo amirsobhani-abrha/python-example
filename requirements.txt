@@ -1,2 +1,2 @@
 
-xmltodict==0.12.123123123
+xmltodict==0.12.0
